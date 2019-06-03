@@ -4,16 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: Twister <support@pokego2.com>
 Depends: 
 Conflicts: 
-Filename: ./com.hackyouriphone.localiapstore_1.4-2.deb
+Filename: com.hackyouriphone.localiapstore_1.4-2.deb
 Size: 71040
 MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
 SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
 SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
 Section: Tweak
 Priority: optional
-Description: Hacks and more from Global++!!! Bypass JB Detection.
-Tag: purpose::extension, role::enduser
-Author: Twister Repo <support@pokego2.com>
+Description: 
+Author: Twister Repo
 Depiction: https://twisterrepo.github.io/depiction.html?localinapp
 Dev: i4iphones
 Name: Local In-App
