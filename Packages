@@ -2,11 +2,11 @@ Package: com.twisterrepo.localinapp
 Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: Twister <support@pokego2.com>
-Filename: ./localinapp_1.4-2.deb
-Size: 71040
-MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
-SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
-SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
+Filename: ./com.yourepo.twister.localinappstore_1.4-1.deb
+Size: 42110
+MD5sum: 277f3b64a3816ae1cee82f160dd79616
+SHA1: 218cfc503f4b76da3c92ce813f3bb5300fee42b8
+SHA256: 92ee25216dcb311497ca123a6b90bc33dbcf59a61e1ebc16eb153862d8819577
 Section: Tweak
 Priority: optional
 Description: 
