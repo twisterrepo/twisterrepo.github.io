@@ -1,4 +1,4 @@
-Package: com.twister.localinapp
+Package: com.twisterrepo.localinapp
 Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: Twister <support@pokego2.com>
@@ -9,33 +9,13 @@ Size: 71040
 MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
 SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
 SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
-Section: System
+Section: Tweak
 Priority: optional
 Description: Hacks and more from Global++!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
 Author: Twister Repo <support@pokego2.com>
-Depiction: https://kingezekiel1.github.io/depiction.html?localinapp
+Depiction: https://twisterrepo.github.io/depiction.html?localinapp
 Dev: i4iphones
 Name: Local In-App
-Sileodepiction: https://kingezekiel1.github.io/sileo/localinapp.json
+Sileodepiction: https://twisterrepo.github.io/sileo/localinapp.json
 
-Package: com.twister.mojito
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Twister <support@pokego2.com>
-Depends: 
-Conflicts: 
-Filename: ./mojito.deb
-Size: 1861202
-MD5sum: fc454090d61d1fc7db8e578467cdfd76
-SHA1: 19dbbac8e94ada2cced8a2edc10ecb4d08e9e802
-SHA256: 8768cac8dbf8b1eb7eb62622a36bcec083bfb269a646d2ed5f70072bae671da5
-Section: Themes
-Priority: optional
-Description: Hacks and more from Global++!!! Bypass JB Detection.
-Tag: purpose::extension, role::enduser
-Author: Twister Repo <support@pokego2.com>
-Depiction: https://kingezekiel1.github.io/depiction.html?localinapp
-Dev: i4iphones
-Name: Local In-App
-Sileodepiction: https://kingezekiel1.github.io/sileo/localinapp.json
