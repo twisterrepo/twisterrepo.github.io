@@ -1,8 +1,8 @@
 Package: com.twisterrepo.localinapp
-Version: 1.4-2
+Version: 1.4-1
 Architecture: iphoneos-arm
-Maintainer: Twister <support@pokego2.com>
-Filename: ./com.yourepo.twister.localinappstore_1.4-1.deb
+Maintainer: Twister <>
+Filename: ./localinappstore_1.4-1.deb
 Size: 42110
 MD5sum: 277f3b64a3816ae1cee82f160dd79616
 SHA1: 218cfc503f4b76da3c92ce813f3bb5300fee42b8
@@ -12,7 +12,6 @@ Priority: optional
 Description: 
 Author: Twister Repo
 Depiction: https://twisterrepo.github.io/depiction.html?localinapp
-Dev: i4iphones
-Name: Local In-App
+Name: Local In-AppStore
 Sileodepiction: https://twisterrepo.github.io/sileo/localinapp.json
 
