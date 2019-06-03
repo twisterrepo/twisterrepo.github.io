@@ -2,9 +2,7 @@ Package: com.twisterrepo.localinapp
 Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: Twister <support@pokego2.com>
-Depends: 
-Conflicts: 
-Filename: com.hackyouriphone.localiapstore_1.4-2.deb
+Filename: ./com.hackyouriphone.localiapstore_1.4-2.deb
 Size: 71040
 MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
 SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
