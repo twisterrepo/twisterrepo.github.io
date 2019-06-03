@@ -81,6 +81,10 @@
                 <td class="info_table_row_b">Updated</td>
                 <td class="info_table_row" id="tweakUpdateDate"></td>
             </tr>
+            <tr>
+            	<td class="info_table_row_b">Back</td>
+            	<td c;ass="info_table_row"><a href="index.html">Twister Repo</a></td>
+            </tr>
     </table>
   </div>
 </div>
@@ -106,7 +110,7 @@
   //Redirect to 404 page if package not specified in URL
     if (window.location.search.substring(1)) {
   } else {
-    location.replace("404")
+    location.replace("404.html")
   }
 
   var text = loadXMLDoc("/package/" + window.location.search.substring(1) + "/Info.xml"); //Specify the name of the XML config to load
